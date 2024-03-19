@@ -19,7 +19,6 @@ function HomePage() {
       <div className="cart-wrapper min-w-[300px] md:-mr-[24px] md:-mt-[24px] border">
         <CardTotals />
       </div>
-    
     </div>
   </>  )
 }
